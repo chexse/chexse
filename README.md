@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chexse
 - 👀 I'm interested in simplify things by code
-- 🌱 I’m currently learning ... Most likely somthing I have seen on TouTube
-- 💞️ I’m looking to collaborate on, Noop, 
+- 🌱 I’m currently learning ... Most likely somthing I have seen on YouTube
 - 📫 How to reach me... Don't know yet... I'm new here.
 
 <!---
